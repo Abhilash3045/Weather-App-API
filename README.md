@@ -2,5 +2,5 @@ A simple and elegant Weather Application built using HTML, CSS, and JavaScript, 
 Users can enter any city name to get the current temperature, weather condition, and icon representing the atmosphere in real time.
 
 # API-key generation
-Use this below Link to genearte your own API key and use it in the file named "script.js".
+Use this below Link to genearte your own Weather API key and use it in the file named "script.js".
 > Link - https://www.weatherapi.com/
