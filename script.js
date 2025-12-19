@@ -7,7 +7,7 @@ async function getWeather() {
         return;
     }
 
-    const apiKey = "d52a352d1d024e69887174709252110";
+    const apiKey = "";    //Paste your own API key here.
     const url = ;   //Paste your own API link here to make the website work.
 
     try {
@@ -33,4 +33,5 @@ async function getWeather() {
         console.error(error);
     }
 }
+
 
